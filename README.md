@@ -13,3 +13,16 @@ trabalho de programa
     <h1>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</h1>
 </body>
 </html>
+
+Style.css
+
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-escura: #F9F9F9; 
+    --cor-de-fundo: #00030C; 
+    --botao-azul: #167BF7; 
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color:var(--branco-principal)
+}
