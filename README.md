@@ -1,5 +1,3 @@
-# curso2.2trimestre
-trabalho de programa
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -14,15 +12,4 @@ trabalho de programa
 </body>
 </html>
 
-Style.css
 
-:root {
-    --branco-principal: #FFFFFF;
-    --cinza-escura: #F9F9F9; 
-    --cor-de-fundo: #00030C; 
-    --botao-azul: #167BF7; 
-}
-body{
-    background-color: var(--cor-de-fundo);
-    color:var(--branco-principal)
-}
