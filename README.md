@@ -12,4 +12,15 @@
 </body>
 </html>
 
+Style.css
 
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-escura: #F9F9F9; 
+    --cor-de-fundo: #00030C; 
+    --botao-azul: #167BF7; 
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color:var(--branco-principal)
+}
